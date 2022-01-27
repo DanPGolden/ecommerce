@@ -5,7 +5,7 @@ This is a back end portion for an e-commerce site. This application used Express
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demonstration](#demonstation)
+* [Demonstration](#demonstration)
 <br>
 
 ## Installation
